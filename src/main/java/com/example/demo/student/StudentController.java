@@ -1,3 +1,9 @@
+/**
+ * REST class that enables users to add students to the application's database via CRUD operations
+ *
+ * @author Gabe Braden, Steampunk Education
+ * @author Nelson Djalo, Amigoscode
+ */
 package com.example.demo.student;
 
 import org.springframework.beans.factory.annotation.Autowired;

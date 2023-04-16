@@ -1,3 +1,9 @@
+/**
+ * The business logic of this application is implemented in this class
+ *
+ * @author Gabe Braden, Steampunk Education
+ * @author Nelson Djalo, Amigoscode
+ */
 package com.example.demo.student;
 
 import org.springframework.beans.factory.annotation.Autowired;

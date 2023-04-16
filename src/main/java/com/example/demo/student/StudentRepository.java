@@ -1,3 +1,9 @@
+/**
+ * Uses the JPA interface to easily manipulate the application's database
+ *
+ * @author Gabe Braden, Steampunk Education
+ * @author Nelson Djalo, Amigoscode
+ */
 package com.example.demo.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
